@@ -1,0 +1,12 @@
+Cocinero-2 ha completado Pedido{id=2, plato='Hamburguesa'}
+Cocinero-1 ha completado Pedido{id=1, plato='Pizza'}
+Cocinero-3 ha completado Pedido{id=3, plato='Pasta'}
+Cocinero-2 ha completado Pedido{id=4, plato='Ensalada'}
+Cocinero-3 ha completado Pedido{id=6, plato='Paella'}
+Cocinero-1 ha completado Pedido{id=5, plato='Sopa'}
+Cocinero-3 ha completado Pedido{id=3, plato='Pasta'}
+Cocinero-2 ha completado Pedido{id=2, plato='Hamburguesa'}
+Cocinero-1 ha completado Pedido{id=1, plato='Pizza'}
+Cocinero-3 ha completado Pedido{id=4, plato='Ensalada'}
+Cocinero-2 ha completado Pedido{id=5, plato='Sopa'}
+Cocinero-1 ha completado Pedido{id=6, plato='Paella'}
